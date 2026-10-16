@@ -33,10 +33,6 @@ python main.py
 python app.py
 ```
 
-## Output
-
-Add a screenshot of your prediction chart here.
-
 ## Author
 
 Logesh | [GitHub](https://github.com/logesh120627)
