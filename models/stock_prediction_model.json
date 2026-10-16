@@ -1,0 +1,10 @@
+{
+    "stock_symbol": "RELIANCE.NS",
+    "model": "Simple Linear Regression",
+    "input_feature": "Previous_Close",
+    "slope": 0.9972631288999123,
+    "intercept": 3.325704431458689,
+    "MAE": 26.379654402083347,
+    "RMSE": 58.37083307701877,
+    "R2": 0.9808830716280501
+}
